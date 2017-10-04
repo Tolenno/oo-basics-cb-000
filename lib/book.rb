@@ -7,5 +7,5 @@ class Book
     @title
   end
 
-  attr_accessor :author_name
+  attr_accessor :author
 end
